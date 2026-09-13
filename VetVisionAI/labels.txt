@@ -1,0 +1,6 @@
+0 Kurap (Ringworm)
+1 Katarak (Cataracts)
+2 Sihat (Healthy Pet)
+3 Radang Kulit Kemerahan (Hot Spots / Dermatitis)
+4 Imej Tidak Sah (Invalid / Not a Pet)
+5 Sakit Mata (Conjunctivitis / Pink Eye)
