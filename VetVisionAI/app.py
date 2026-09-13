@@ -1,5 +1,8 @@
 import streamlit as st
-import tf_keras as keras
+try:
+    import tf_keras as keras
+except ImportError:
+    import tensorflow.keras as keras
 from PIL import Image, ImageOps
 import numpy as np
 import os
